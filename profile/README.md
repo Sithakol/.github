@@ -16,4 +16,4 @@
 
 ---
 
-<p>For more information, visit our website <a href="www.sithakol.com" target="_blank">here</a>.</p>
+For more information, visit our website [here](https://www.sithakol.com).
